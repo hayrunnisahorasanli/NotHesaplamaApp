@@ -1,0 +1,2 @@
+# NotHesaplamaApp
+kotlin ile geliştirilmiştir.
